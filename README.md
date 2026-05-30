@@ -54,6 +54,3 @@ Model akan mengidentifikasi objek pada gambar dan memberikan bounding box besert
 ## Notes
 
 File model berukuran besar tidak disertakan dalam repository ini. Untuk menjalankan sistem secara penuh, model hasil pelatihan perlu ditambahkan kembali ke folder `Weights`.
-
-**Mohammad Rohmad Nur Khoirofiq**
-Information Systems | Universitas Sriwijaya
